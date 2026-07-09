@@ -1,51 +1,48 @@
-# Hola, soy Damian Torres 👋
+<h1 align="center">Damian Torres</h1>
 
-Estudiante de Ingeniería de Software enfocado en desarrollo backend, bases de datos, APIs REST, arquitectura limpia y despliegue de aplicaciones.
+<p align="center">
+  Software Engineering Student · Backend Development · Databases · REST APIs
+</p>
 
-Me interesa construir soluciones funcionales, seguras y bien estructuradas, aplicando buenas prácticas de calidad de software, documentación técnica y diseño de bases de datos.
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-111111?style=flat&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=flat&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/NestJS-111111?style=flat&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Java-111111?style=flat&logo=openjdk&logoColor=ED8B00" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-111111?style=flat&logo=angular&logoColor=DD0031" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-111111?style=flat&logo=css&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Bootstrap-111111?style=flat&logo=bootstrap&logoColor=7952B3" />
+</p>
 
-## 🚀 Tech Stack
-
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Database & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-008000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Data & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
-
----
-
-## 🧩 Áreas de interés
-
-- Backend development
-- API REST
-- PostgreSQL y modelado de datos
-- Docker y despliegue en Linux
-- Arquitectura limpia
-- Calidad de software
-- Business Intelligence y ETL
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/PostGIS-111111?style=flat&logo=postgresql&logoColor=008000" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=flat&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=3776AB" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### About
 
-![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevTorres404&show_icons=true&theme=github_dark&hide_border=true)
+Software Engineering student focused on backend development, database design, REST APIs, clean architecture, and application deployment.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTorres404&layout=compact&theme=github_dark&hide_border=true)
+I enjoy building secure, maintainable, and well-structured software solutions with attention to quality, documentation, and good engineering practices.
+
+---
+
+### Focus
+
+Backend Systems · REST APIs · Database Design · SQL · Docker Deployment · Clean Architecture · Software Quality · BI & ETL
