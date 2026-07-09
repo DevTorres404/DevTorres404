@@ -42,8 +42,7 @@ I enjoy building secure, maintainable, and well-structured software solutions wi
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/PostGIS-111111?style=flat&logo=postgresql&logoColor=008000" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-111111?style=flat&logo=microsoftsqlserver&logoColor=CC2927" />
   <img src="https://img.shields.io/badge/Redis-111111?style=flat&logo=redis&logoColor=DC382D" />
 </p>
 
@@ -70,4 +69,4 @@ I enjoy building secure, maintainable, and well-structured software solutions wi
 
 ### Focus
 
-Backend Systems · REST APIs · Database Design · SQL · Docker Deployment · Clean Architecture · Software Quality · BI & ETL
+Backend Systems · REST APIs · Database Design · SQL Server · Docker Deployment · Clean Architecture · Software Quality · BI & ETL
