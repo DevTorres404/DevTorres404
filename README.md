@@ -1,7 +1,10 @@
 # Hola, soy Damian Torres 👋
 
-Estudiante de Ingeniería de Software enfocado en desarrollo backend, bases de datos, APIs REST y despliegue con Docker.  
-Me interesa construir sistemas reales aplicando arquitectura limpia, seguridad, geolocalización y buenas prácticas de calidad de software.
+Estudiante de Ingeniería de Software enfocado en desarrollo backend, bases de datos, APIs REST, arquitectura limpia y despliegue de aplicaciones.
+
+Me interesa construir soluciones funcionales, seguras y bien estructuradas, aplicando buenas prácticas de calidad de software, documentación técnica y diseño de bases de datos.
+
+---
 
 ## 🚀 Tech Stack
 
@@ -16,15 +19,33 @@ Me interesa construir sistemas reales aplicando arquitectura limpia, seguridad, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Database & Tools
+### Database & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-008000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Data & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 🧩 Áreas de interés
+
+- Backend development
+- API REST
+- PostgreSQL y modelado de datos
+- Docker y despliegue en Linux
+- Arquitectura limpia
+- Calidad de software
+- Business Intelligence y ETL
+
+---
 
 ## 📊 GitHub Stats
 
-![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevTorres404&show_icons=true&theme=github_dark)
+![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevTorres404&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTorres404&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTorres404&layout=compact&theme=github_dark&hide_border=true)
