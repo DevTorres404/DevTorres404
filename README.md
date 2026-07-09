@@ -42,17 +42,17 @@ I enjoy building secure, maintainable, and well-structured software solutions wi
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/PostGIS-111111?style=flat&logo=postgresql&logoColor=008000" />
-  <img src="https://img.shields.io/badge/SQL%20Server-111111?style=flat&logo=microsoftsqlserver&logoColor=CC2927" />
   <img src="https://img.shields.io/badge/Redis-111111?style=flat&logo=redis&logoColor=DC382D" />
 </p>
 
-### DevOps & Infrastructure
+### DevOps & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/Docker-111111?style=flat&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Nginx-111111?style=flat&logo=nginx&logoColor=009639" />
   <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat&logo=cloudflare&logoColor=F38020" />
+  <img src="https://img.shields.io/badge/Firebase-111111?style=flat&logo=firebase&logoColor=FFCA28" />
 </p>
 
 ### Data & Tools
@@ -69,4 +69,4 @@ I enjoy building secure, maintainable, and well-structured software solutions wi
 
 ### Focus
 
-Backend Systems · REST APIs · Database Design · SQL Server · Docker Deployment · Clean Architecture · Software Quality · BI & ETL
+Backend Systems · REST APIs · Database Design · Docker Deployment · Clean Architecture · Software Quality · BI & ETL
