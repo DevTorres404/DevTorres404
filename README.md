@@ -4,9 +4,15 @@
   Software Engineering Student · Backend Development · Databases · REST APIs
 </p>
 
+<p align="center">
+  <a href="https://github.com/DevTorres404">
+    <img src="https://img.shields.io/badge/GitHub-DevTorres404-111111?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-### About
+## About
 
 Software Engineering student focused on backend development, database design, REST APIs, clean architecture, and application deployment.
 
@@ -33,7 +39,7 @@ I enjoy building secure, maintainable, and well-structured software solutions wi
   <img src="https://img.shields.io/badge/Angular-111111?style=flat&logo=angular&logoColor=DD0031" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/CSS-111111?style=flat&logo=css&logoColor=663399" />
   <img src="https://img.shields.io/badge/Bootstrap-111111?style=flat&logo=bootstrap&logoColor=7952B3" />
 </p>
 
@@ -61,12 +67,20 @@ I enjoy building secure, maintainable, and well-structured software solutions wi
   <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/BI-111111?style=flat&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-111111?style=flat&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL-111111?style=flat&logo=databricks&logoColor=white" />
 </p>
 
 ---
 
-### Focus
+## Focus
 
-Backend Systems · REST APIs · Database Design · Docker Deployment · Clean Architecture · Software Quality · BI & ETL
+<p>
+  Backend Systems · REST APIs · Database Design · Docker Deployment · Clean Architecture · Software Quality · BI & ETL
+</p>
+
+---
+
+<p align="center">
+  Always learning, building, and improving.
+</p>
